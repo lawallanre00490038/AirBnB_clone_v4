@@ -156,7 +156,5 @@ No known bugs at this time.
 ## Authors
 Olanrewaju Lawal - [Github](https://github.com/lawallanre00490038)
 
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
