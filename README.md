@@ -154,9 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Olanrewaju Lawal - [Github](https://github.com/lawallanre00490038) / [GitHub](lawallanre49@gmail.com)  
+Olanrewaju Lawal - [Github](https://github.com/lawallanre00490038) / [Gmail](lawallanre49@gmail.com)  
 
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
